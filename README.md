@@ -1,2 +1,3 @@
 # awesome-js
-We keep coming across great libraries in JS while we browse. Let's collect them.
+
+[Minievents](https://github.com/allouis/minivents) : Awesome library to add JS events. 355 bytes!
